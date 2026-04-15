@@ -82,3 +82,4 @@ This tool is developed for **educational and operational security (OpSec) awaren
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+Çrş 15 Nis 2026 22:15:41 +03
